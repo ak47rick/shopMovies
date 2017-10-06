@@ -1,4 +1,8 @@
 # shopMovies
 online movies shopping website
 
-use Eclipse to deploy everything to Tomcat Server
+INSTRUCTIONS:
+
+Use Eclipse EE to deploy everything to Tomcat Server
+
+app runs locally 
